@@ -1,4 +1,4 @@
-# eCommerce API
+## eCommerce API
 
 An eCommerce API built with Express and MongoDB, designed to manage product listings, user accounts, orders, and more. This API supports basic CRUD operations, user authentication, and integration with a payment gateway.
 
